@@ -1,3 +1,10 @@
+/*
+    Author : Atharv Anil Ambekar
+    Date : 25th July 2025
+    Purpose : Learning Public, Private Acess Modifiers
+    
+*/
+
 #include<iostream>
 
 class Access
